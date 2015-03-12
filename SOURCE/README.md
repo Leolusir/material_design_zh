@@ -14,8 +14,8 @@ http://www.google.com/design/spec/material-design/introduction.html
   * [Introduction](material-design/introduction.md)
 * What is material
   * [Environment](What-is-material/environment.md)
-  * [Material properties](what-is-material/material-properties.md)
-  * [Objects in 3D space](what-is-material/objects-in-3d-space.md)
+  * [Material properties](What-is-material/material-properties.md)
+  * [Objects in 3D space](What-is-material/objects-in-3d-space.md)
 * Animation
   * [Authentic Motion](animation/authentic-motion.md)
   * [Responsive Interaction](animation/responsive-interaction.md)

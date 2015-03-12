@@ -52,14 +52,29 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Style
   * Icons by [Goshin](https://github.com/goshin)
 
-### 翻译认领章节记录   
+### 最新章节待认领部分
+* What is material?
+  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://http://www.google.com/design/spec/what-is-material/environment.html)
+  * [Material特性](SOURCE/What-is-material/material-properties.md) - [Material properties](http://www.google.com/design/spec/what-is-material/material-properties.html)
+  * [三维空间中的对象](SOURCE/What-is-material/objects-in-3d-space.md) - [Objects in 3D space](http://www.google.com/design/spec/what-is-material/objects-in-3d-space.html)
+* Components
+  * [采集](SOURCE/components/pickers.md) - [Pickers](http://www.google.com/design/spec/components/pickers.html)
+* Patterns
+  * [导航过渡](SOURCE/patterns/navigational-transitions.md) - [Navigational transitions](http://www.google.com/design/spec/patterns/navigational-transitions.html)
+  * [滚动要点](SOURCE/patterns/scrolling-techniques.md) - [Scrolling techniques](http://www.google.com/design/spec/patterns/scrolling-techniques.html)
+  * [滑屏刷新](SOURCE/patterns/swipe-to-refresh.md) - [Swipe to refresh](http://www.google.com/design/spec/patterns/swipe-to-refresh.html)
+* Usability
+  * [双向性](SOURCE/usability/bidirectionality.md) - [Bidirectionality](http://www.google.com/design/spec/usability/bidirectionality.html)
+
+
+### 翻译认领章节记录
 
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * What is material?
-  * Environment
-  * Material properties
-  * Objects in 3D space
+  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://http://www.google.com/design/spec/what-is-material/environment.html)
+  * [Material特性](SOURCE/What-is-material/material-properties.md) - [Material properties](http://www.google.com/design/spec/what-is-material/material-properties.html)
+  * [三维空间中的对象](SOURCE/What-is-material/objects-in-3d-space.md) - [Objects in 3D space](http://www.google.com/design/spec/what-is-material/objects-in-3d-space.html)
 * Animation 
   * [真实的动作](SOURCE/animation/authentic-motion.md) - [Authentic Motion](http://www.google.com/design/spec/animation/authentic-motion.html) √ by [zhenbeiju](https://github.com/zhenbeiju)
   * [交互响应](SOURCE/animation/responsive-interaction.md) - [Responsive Interaction](http://www.google.com/design/spec/animation/responsive-interaction.html) √ by [7heaven](https://github.com/7heaven)
@@ -93,23 +108,24 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
   * [Tabs](SOURCE/components/tabs.md) - [Tabs](http://www.google.com/design/spec/components/tabs.html) √ by [vincent4j](https://github.com/vincent4j)
   * [文本框](SOURCE/components/text-fields.md) - [Text fields](http://www.google.com/design/spec/components/text-fields.html) √ by [SamanthaChou](https://github.com/SamanthaChou)
   * [工具提示](SOURCE/components/tooltips.md) - [Tooltips](http://www.google.com/design/spec/components/tooltips.html) √ by [lhyqy5](https://github.com/lhyqy5)
+  * [采集](SOURCE/components/pickers.md) - [Pickers](http://www.google.com/design/spec/components/pickers.html)
 * Patterns
   * [数据格式](SOURCE/patterns/data-formats.md) - [Data formats](http://www.google.com/design/spec/patterns/data-formats.html) 100% by [IsNoFate](https://github.com/isnofate)
   * 错误 - [Errors](http://www.google.com/design/spec/patterns/errors.html) 翻译中 by [IsNoFate](https://github.com/isnofate)
   * [手势](SOURCE/patterns/gestures.md) - [Gestures](http://www.google.com/design/spec/patterns/gestures.html) √ by [Jingsha](https://github.com/jingsha)
   * Loading images √ by [jakollee](https://github.com/jakollee)
   * [抽屉式导航](SOURCE/patterns/navigation-drawer.md) - [Navigation drawer](http://www.google.com/design/spec/patterns/navigation-drawer.html) √ by [hcz017](https://github.com/hcz017)
-  * Navigational transitions
-  * Scrolling techniques
+  * [导航过渡](SOURCE/patterns/navigational-transitions.md) - [Navigational transitions](http://www.google.com/design/spec/patterns/navigational-transitions.html)
+  * [滚动要点](SOURCE/patterns/scrolling-techniques.md) - [Scrolling techniques](http://www.google.com/design/spec/patterns/scrolling-techniques.html)
   * [搜索](SOURCE/patterns/search.md) - [Search](http://www.google.com/design/spec/patterns/search.html) √ by [lhyqy5](https://github.com/lhyqy5)
   * [内容选取](SOURCE/patterns/selection.md) - [Selection](http://www.google.com/design/spec/patterns/selection.html) √ by [lhyqy5](https://github.com/lhyqy5)
   * [设置](SOURCE/patterns/settings.md) - [Settings](http://www.google.com/design/spec/patterns/settings.html) √ by [ZeroLu](https://github.com/ZeroLu)
-  * Swipe to refresh
+  * [滑屏刷新](SOURCE/patterns/swipe-to-refresh.md) - [Swipe to refresh](http://www.google.com/design/spec/patterns/swipe-to-refresh.html)
   * [促进的动作](SOURCE/patterns/promoted-actions.md) - [Promoted Actions](http://www.google.com/design/spec/patterns/promoted-actions.html) √ by [ZeroLu](https://github.com/ZeroLu)
   * [影像处理](SOURCE/patterns/imagery-treatment.md) - [Imagery Treatment](http://www.google.com/design/spec/patterns/imagery-treatment.html) √ by [ZeroLu](https://github.com/ZeroLu)
 * Usability
   * [可达性](SOURCE/usability/accessibility.md) - [Accessibility](http://www.google.com/design/spec/usability/accessibility.html) √ by [fortianwei](https://github.com/fortianwei)
-  * Bidirectionality
+  * [双向性](SOURCE/usability/bidirectionality.md) - [Bidirectionality](http://www.google.com/design/spec/usability/bidirectionality.html)
 * Resources
   * [调色板](SOURCE/resources/color-palettes.md) - [Color Palettes](http://www.google.com/design/spec/resources/color-palettes.html) √ by [iceskysl](https://github.com/iceskysl)
   * [布局模板](SOURCE/resources/layout-templates.md) - [Layout Templates](http://www.google.com/design/spec/resources/layout-templates.html) √ by [iceskysl](https://github.com/iceskysl)
@@ -259,66 +275,109 @@ To git@github.com:IceskYsl/material_design_zh.git
 
 ## 目录结构
 ```sh
-├── README.md
-├── SUMMARY.md
-├── cover.jpg
-├── cover_small.jpg
-├── material-design
-│   ├── images
-│   │   ├── materialdesign-goals-cutrectangles_large_mdpi.png
-│   │   ├── materialdesign-goals-landingimage_large_mdpi.png
-│   │   ├── materialdesign-goals-swirlanddot_large_mdpi.png
-│   │   ├── materialdesign-principles-circleplus_large_mdpi.png
-│   │   ├── materialdesign-principles-flyingsquare_large_mdpi.png
-│   │   └── materialdesign-principles-layersquares_large_mdpi.png
-│   └── introduction.md
-├── animation
-│   ├── authentic-motion.md
-│   ├── delightful-details.md
-│   ├── meaningful-transitions.md
-│   └── responsive-interaction.md
-├── style
-│   ├── color.md
-│   ├── icons.md
-│   ├── imagery.md
-│   └── typography.md
-├── layout
-│   ├── layout-principles.md
-│   ├── metrics-and-keylines.md
-│   └── structure.md
-├── components
-│   ├── bottom-sheets.md
-│   ├── buttons.md
-│   ├── cards.md
-│   ├── chips-tokens.md
-│   ├── dialogs.md
-│   ├── dividers.md
-│   ├── grids.md
-│   ├── list-controls.md
-│   ├── lists.md
-│   ├── menus.md
-│   ├── progress-activity.md
-│   ├── sliders.md
-│   ├── snackbars-and-toasts.md
-│   ├── subheaders.md
-│   ├── switches.md
-│   ├── tabs.md
-│   ├── text-fields.md
-│   └── tooltips.md
-├── patterns
-│   ├── gestures.md
-│   ├── imagery-treatment.md
-│   ├── promoted-actions.md
-│   ├── search.md
-│   ├── selection.md
-│   └── settings.md
-└── usability
-    └── accessibility.md
-├── resources
-│   ├── color-palettes.md
-│   ├── layout-templates.md
-│   ├── roboto-font.md
-│   └── sticker-sheets.md
+├─SOURCE
+│  │  cover.jpg
+│  │  cover_small.jpg
+│  │  README.md
+│  │  SUMMARY.md
+│  │  TOC.md
+│  │  
+│  ├─animation
+│  │      authentic-motion.md
+│  │      delightful-details.md
+│  │      meaningful-transitions.md
+│  │      responsive-interaction.md
+│  │      
+│  ├─components
+│  │  │  bottom-sheets.md
+│  │  │  buttons.md
+│  │  │  cards.md
+│  │  │  chips-tokens.md
+│  │  │  chips.md
+│  │  │  dialogs.md
+│  │  │  dividers.md
+│  │  │  grids.md
+│  │  │  list-controls.md
+│  │  │  lists.md
+│  │  │  menus.md
+│  │  │  pickers.md
+│  │  │  progress-activity.md
+│  │  │  sliders.md
+│  │  │  snackbars-and-toasts.md
+│  │  │  subheaders.md
+│  │  │  switches.md
+│  │  │  tabs.md
+│  │  │  text-fields.md
+│  │  │  tooltips.md
+│  │  │  
+│  │  └─images
+│  │          
+│  ├─layout
+│  │  │  layout-principles.md
+│  │  │  metrics-and-keylines.md
+│  │  │  structure.md
+│  │  │  
+│  │  └─images
+│  │          
+│  ├─material-design
+│  │  │  introduction.md
+│  │  │  
+│  │  └─images
+│  │          
+│  ├─patterns
+│  │  │  data-formats.md
+│  │  │  errors.md
+│  │  │  gestures.md
+│  │  │  imagery-treatment.md
+│  │  │  navigation-drawer.md
+│  │  │  navigational-transitions.md
+│  │  │  promoted-actions.md
+│  │  │  scrolling-techniques.md
+│  │  │  search.md
+│  │  │  selection.md
+│  │  │  settings.md
+│  │  │  swipe-to-refresh.md
+│  │  │  
+│  │  └─images
+│  │          
+│  ├─resources
+│  │      color-palettes.md
+│  │      layout-templates.md
+│  │      roboto-font.md
+│  │      sticker-sheets-icons.md
+│  │      
+│  ├─style
+│  │  │  color.md
+│  │  │  icons.md
+│  │  │  imagery.md
+│  │  │  typography.md
+│  │  │  
+│  │  └─images
+│  │          
+│  ├─usability
+│  │      accessibility.md
+│  │      bidirectionality.md
+│  │      
+│  ├─What-is-material
+│  │      environment.md
+│  │      material-properties.md
+│  │      objects-in-3d-space.md
+│  │      
+│  └─whats-new
+│          whats-new.md
+│          
+├─_includes
+│      footer.html
+│      head.html
+│      header.html
+│      
+├─_layouts
+│      default.html
+│      page.html
+│      post.html
+│      
+└─_plugins
+        md_converter.rb
 ```
 
 ***
