@@ -13,7 +13,7 @@ http://www.google.com/design/spec/material-design/introduction.html
 * Material Design 
   * [Introduction](material-design/introduction.md)
 * What is material
-  * [Environment](what-is-material/environment.md)
+  * [Environment](What-is-material/environment.md)
   * [Material properties](what-is-material/material-properties.md)
   * [Objects in 3D space](what-is-material/objects-in-3d-space.md)
 * Animation
