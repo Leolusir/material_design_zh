@@ -13,7 +13,7 @@ permalink: whats-new.html
 * 抽屉导航（Navigation drawer）
 * 导航的场景转换（Navigational transitions）
 * 滚到的技术（Scrolling techniques）
-* 扫屏更新（Swipe to refresh）
+* 扫屏刷新（Swipe to refresh）
 * 日期和时间格式（Date & time formats）
 * 错误信息（Errors）
 * 产品Icon（Product icons）

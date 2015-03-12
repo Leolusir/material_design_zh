@@ -2,6 +2,10 @@
 
 * Material Design 
   * [Introduction](material-design/introduction.md)
+* What is material
+  * [Environment](what-is-material/environment.md)
+  * [Material properties](what-is-material/material-properties.md)
+  * [Objects in 3D space](what-is-material/objects-in-3d-space.md)
 * Animation
   * [Authentic Motion](animation/authentic-motion.md)
   * [Responsive Interaction](animation/responsive-interaction.md)
@@ -27,6 +31,7 @@
   * [Lists](components/lists.md)
   * [List controls](components/list-controls.md)
   * [Menus](components/menus.md)
+  * [Pickers](components/pickers.md)
   * [Progress and Activity](components/progress-activity.md)
   * [Sliders](components/sliders.md)
   * [Snackbars and Toasts](components/snackbars-and-toasts.md)
@@ -43,10 +48,16 @@
   * [Settings](patterns/settings.md)
   * [Imagery Treatment](patterns/imagery-treatment.md)
   * [Search](patterns/search.md)
+  * [Navigation drawer](patterns/navigation-drawer.md)
+  * [Navigational transitions](patterns/navigational-transitions.md)
+  * [Scrolling techniques](patterns/scrolling-techniques.md)
+  * [Swipe to refresh](patterns/swipe-to-refresh.md)
+  * [Errors](patterns/errors.md)
 * Usability
   * [Accessibility](usability/accessibility.md)
+  * [Bidirectionality](usability/bidirectionality.md)
 * Resources
   * [Layout Templates](resources/layout-templates.md)
-  * [Sticker Sheets](resources/sticker-sheets.md)
-  * [Roboto Font](resources/roboto-font.md)
+  * [Sticker Sheets & icons](resources/sticker-sheets.md)
+  * [Roboto & Noto Font](resources/roboto-font.md)
   * [Color Palettes](resources/color-palettes.md)
