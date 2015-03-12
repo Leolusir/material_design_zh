@@ -54,7 +54,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 
 ### 最新章节待认领部分
 * What is material?
-  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://http://www.google.com/design/spec/what-is-material/environment.html)
+  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://www.google.com/design/spec/what-is-material/environment.html)
   * [Material特性](SOURCE/What-is-material/material-properties.md) - [Material properties](http://www.google.com/design/spec/what-is-material/material-properties.html)
   * [三维空间中的对象](SOURCE/What-is-material/objects-in-3d-space.md) - [Objects in 3D space](http://www.google.com/design/spec/what-is-material/objects-in-3d-space.html)
 * Components
@@ -72,7 +72,7 @@ Google I/O 2014发布的Material Design将会成为统一Android，Chrome等平�
 * Material Design 
   * [概述](SOURCE/material-design/introduction.md) - [Introduction](http://www.google.com/design/spec/material-design/introduction.html) √ by [iceskysl](https://github.com/iceskysl)
 * What is material?
-  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://http://www.google.com/design/spec/what-is-material/environment.html)
+  * [环境](SOURCE/What-is-material/environment.md) - [Environment](http://www.google.com/design/spec/what-is-material/environment.html)
   * [Material特性](SOURCE/What-is-material/material-properties.md) - [Material properties](http://www.google.com/design/spec/what-is-material/material-properties.html)
   * [三维空间中的对象](SOURCE/What-is-material/objects-in-3d-space.md) - [Objects in 3D space](http://www.google.com/design/spec/what-is-material/objects-in-3d-space.html)
 * Animation 
